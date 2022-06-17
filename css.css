@@ -1,0 +1,77 @@
+    a:link {
+        color: red;
+    }
+    a:hover {
+        color:black;
+    }
+    a:visited {
+        color:yellow;
+    }
+    body  {
+    background-image:url("https://picsum.photos/id/1060/500/500/?blur=2");
+    background-position: 0 10%;
+    background-repeat: repeat-x repeat-y;
+    align-items: center;
+    background-color: rgba(42, 182, 72,0.2);
+}
+    div {
+        padding-block-start: 2.5em;
+        border-radius: 50px;
+        border-color:brown;
+        background-color: red;
+       
+        font-size: 23px;
+        opacity: 1;
+        
+    }
+    header {
+        text-align: center;
+        background-image: url(https://t4.ftcdn.net/jpg/04/75/67/67/360_F_475676739_4uSdpV10kGemUK6JN0MPrWLVOhxyZ49R.jpg);
+        font-family:sans-serif;
+        margin-top: 0px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: -4px 4px #ef3550,
+               -8px 8px #f48fb1,
+               -12px 12px #7e57c2,
+               -16px 16px #2196f3;
+        
+
+    }
+    h1 {padding-bottom:20px ;
+        border-style:solid;
+        border-radius: 10px;
+        border-width: 5px;
+        color: rgb(27, 192, 214);
+    }
+
+    footer {
+        border-radius: 100px;
+        border-style: solid;
+        border-top-color:rgba(42, 182, 72,0.2);
+        border-bottom-color: #ef3550;
+        text-align: center;
+        background:linear-gradient(0deg,black,red,green);
+    }
+
+    .r2 {
+        background-image:url("https://picsum.photos/id/71/700/350") ;
+        width: 50px;
+        height: 245px;
+        border-radius: 100px;
+        opacity: 0.5;
+    }
+    p {border-radius: 10px;
+        background: linear-gradient(25deg,black,yellow,blue,black,yellow,green,black,green,yellow);
+        color:red;
+        border-style: outset;
+        border-color: lightgreen;
+        opacity: 0.6;
+       
+    }
+  
